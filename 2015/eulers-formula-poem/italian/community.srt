@@ -4,23 +4,23 @@ e elevato alla i pigreco è uguale a meno 1
 
 2
 00:00:10,430 --> 00:00:13,200
-Si tratta di una delle equazioni più famose della matematica, ma anche una delle più
+Si tratta di una delle equazioni più famose della matematica, ma è anche una delle più
 
 3
 00:00:13,200 --> 00:00:14,090
-strane
+intricate
 
 4
 00:00:14,090 --> 00:00:17,099
-Gli utenti di questo video si possono suddividere in tre categorie
+Gli spettatori di questo video si possono suddividere in tre categorie
 
 5
 00:00:17,099 --> 00:00:21,310
-1) coloro che conoscono il significato di ogni termine, ma sono perplessi dal significato dell'equazione,
+1) coloro che conoscono il significato di ogni termine, ma sono perplessi sul significato dell'equazione,
 
 6
 00:00:21,310 --> 00:00:25,699
-2) coloro che hanno visto cosa significa tramite delle lunghe formule
+2) i fortunati che ne hanno apprezzato il significato attraverso lunghe formule
 
 7
 00:00:25,699 --> 00:00:27,210
@@ -28,7 +28,7 @@ durante una lezione di analisi,
 
 8
 00:00:27,210 --> 00:00:31,779
-ma per certi versi sembra un trucco di magia, oppure 3) non è del tutto chiaro
+ma per certi versi sembra un trucco di magia nera, oppure 3) non è del tutto chiaro
 
 9
 00:00:31,779 --> 00:00:33,100
@@ -52,7 +52,7 @@ una mente aperta, per poter ridefinire il modo in cui pensiamo ai numeri.
 
 14
 00:00:44,620 --> 00:00:48,210
-Fatto questo, sarà chiaro cosa significa l'equazione,
+Una volta fatto questo, sarà chiaro cosa significa l'equazione,
 
 15
 00:00:48,210 --> 00:00:51,640
@@ -64,15 +64,15 @@ Per prima cosa devo sottolinare
 
 17
 00:00:54,770 --> 00:00:58,170
-che quando parlo di e alla x non sto parlando di ripetuta moltiplicazione
+che quando parlo di e elevato alla x non sto parlando di ripetuta moltiplicazione
 
 18
 00:00:58,170 --> 00:01:02,449
-poiché avrebbe senso solo per valori interi di x, come 1, 2, 3 ecc.
+poiché avrebbe senso solo per valori di x che possiamo contare, come 1, 2, 3 ecc.
 
 19
 00:01:02,449 --> 00:01:06,080
-e in ogni caso dovremmo definire il numero e. Per capire cosa
+e in ogni caso dovremmo prima definire il numero e. Per capire cosa
 
 20
 00:01:06,080 --> 00:01:07,300
@@ -104,7 +104,7 @@ quando parliamo di cose come la radice quadrata di -1.
 
 27
 00:01:31,480 --> 00:01:35,600
-Dobbiamo invece pensare ai numeri come tre cose contemporaneamente,
+Dovremmo invece pensare ai numeri come tre cose contemporaneamente,
 
 28
 00:01:35,600 --> 00:01:40,800
@@ -112,7 +112,7 @@ un punto su una linea infinita, un'azione che sposta tale linea su se stessa,
 
 29
 00:01:40,810 --> 00:01:44,510
-in tal caso lo chiamiamo un "addendo", e infine un'azione che allunga la linea
+in tal caso lo chiamiamo un "addendo", e infine un'azione che la stira
 
 30
 00:01:44,510 --> 00:01:48,860
@@ -132,11 +132,11 @@ in modo da ridefinire come pensiamo ad essa.
 
 34
 00:01:57,520 --> 00:02:00,940
-Pensate agli addendi come oggetti che spostano la linea con la seguente regola:
+Pensiamo agli addendi come oggetti che spostano la linea con la seguente regola:
 
 35
 00:02:00,940 --> 00:02:04,890
-muovi la linea finché il punto 0 finisce sul punto corrispondente
+si muove la linea finché il punto corrispondente allo 0 finisce sul punto corrispondente
 
 36
 00:02:04,890 --> 00:02:06,450
@@ -144,23 +144,24 @@ all'addendo stesso.
 
 37
 00:02:06,450 --> 00:02:10,700
-Quando applichi due addendi, è come applicare un singolo addendo.
+Quando si appliccano due addendi, è come applicare un singolo addendo per due volte
+.
 
 38
 00:02:10,750 --> 00:02:13,959
-In tal modo definiamo la somma. Allo stesso modo
+In tal modo definiamo la loro somma. Allo stesso modo
 
 39
 00:02:13,959 --> 00:02:16,890
-dimentica tutto ciò che sai sulla moltiplicazione,
+dimentichiamo tutto ciò che sappiamo sulla moltiplicazione,
 
 40
 00:02:16,890 --> 00:02:19,500
-e pensa a un moltiplicatore come un modo per allargare la linea.
+e pensiamo a un moltiplicatore come un modo per stirare la linea.
 
 41
 00:02:19,500 --> 00:02:24,070
-La regola in questo caso è fissare lo 0 e spostare il punto corrispondente con
+La regola in questo caso è fissare lo 0 al suo posto e spostare il punto corrispondente con
 
 42
 00:02:24,070 --> 00:02:28,019
@@ -176,19 +177,19 @@ possiamo ridefinire la moltiplicazione come l'applicazione successiva
 
 45
 00:02:34,989 --> 00:02:38,920
-di due azioni diverse. La funzione e elevato alla x
+di due azioni diverse. Il sogno proibito della funzione e elevato alla x
 
 46
 00:02:38,920 --> 00:02:43,100
-vuole trasformare addendi in moltiplicatori nel modo più naturale possibile.
+è trasformare addendi in moltiplicatori nel modo più naturale possibile.
 
 47
 00:02:43,190 --> 00:02:46,799
-Ad esempio se prendi due addendi, li applichi,
+Ad esempio se prendiamo due addendi, li applichiamo,
 
 48
 00:02:46,799 --> 00:02:49,940
-poi fai passare il risultato per la funzione, questo è equivalente a far passare
+per poi far passare il risultato dalla funzione, questo è equivalente a far passare
 
 49
 00:02:49,940 --> 00:02:51,680
@@ -200,7 +201,7 @@ poi applicando i due moltiplicatori risultanti. In parole povere,
 
 51
 00:02:55,390 --> 00:02:58,780
-e alla x più y è uguale a e alla x per e alla y.
+e alla x più y è uguale a e alla x moltiplicato per e alla y.
 
 52
 00:02:58,780 --> 00:03:02,310
@@ -228,7 +229,7 @@ con la moltiplicazione ripetuta
 
 58
 00:03:16,000 --> 00:03:17,950
-Ci sono molto funzioni che soddisfano questa proprietà,
+Ci sono molte funzioni che soddisfano questa proprietà,
 
 59
 00:03:17,950 --> 00:03:22,210
@@ -244,7 +245,7 @@ Tra l'altro il numero e è solo il valore di questa funzione per x=1.
 
 62
 00:03:29,700 --> 00:03:33,550
-Il numero non è interessante quanto la funzione. La notazione
+Il numero non è interessante quanto la funzione e la notazione
 
 63
 00:03:33,550 --> 00:03:35,170
@@ -252,7 +253,7 @@ di scrivere questa funzione come e alla x
 
 64
 00:03:35,170 --> 00:03:38,250
-è un vestigio del suo rapporto con la moltiplicazione ripetuta.
+è una traccia del suo rapporto con la moltiplicazione ripetuta.
 
 65
 00:03:38,250 --> 00:03:41,260
@@ -260,7 +261,7 @@ Ci sono altre funzioni che soddisfano questa proprietà,
 
 66
 00:03:41,260 --> 00:03:45,640
-che sono esponenziali in basi diversi. Adesso l'equazione e alla i pigreco
+che sono esponenziali in basi diverse. Adesso l'equazione e alla i pigreco
 
 67
 00:03:45,640 --> 00:03:47,620
@@ -272,11 +273,11 @@ ma è fuorviante pensare a questa serie infinita nel tentativo di capirla.
 
 69
 00:03:50,620 --> 00:03:56,940
-Dobbiamo solo pensare a trasformare addendi in moltiplicatori. Infatti
+Dobbiamo solo pensare a trasformare addendi in moltiplicatori. Infatti,
 
 70
 00:03:56,940 --> 00:04:00,340
-possiamo fare questo gioco di spostare e allungare anche nel piano 2-dimensionale
+possiamo fare questo gioco di spostare e stirare anche nel piano 2-dimensionale,
 
 71
 00:04:00,340 --> 00:04:04,350
@@ -284,7 +285,7 @@ che in questo caso corrisponde ai numeri complessi. Ogni numero è simultaneamen
 
 72
 00:04:04,350 --> 00:04:05,020
-sul piano
+sul piano,
 
 73
 00:04:05,020 --> 00:04:08,350
@@ -304,11 +305,11 @@ mantenendo tutto ben proporzionato.
 
 77
 00:04:17,610 --> 00:04:21,709
-Questo include anche le rotazioni e dilatazioni.
+Questo include anche rotazioni e dilatazioni.
 
 78
 00:04:21,709 --> 00:04:25,800
-Tutte le azioni sui numeri reali sono ancora valide, come spostarsi di lato e allungarsi,
+Tutte le azioni sui numeri reali sono ancora valide, come lo spostamento di lato o lo stiramento,
 
 79
 00:04:25,850 --> 00:04:30,730
@@ -388,7 +389,7 @@ per fare questo
 
 98
 00:05:32,120 --> 00:05:35,900
-allora un segmento di lunghezza 2 pigreco avvolgerebbe il cerchio unitario completamente
+allora un segmento di lunghezza 2 pigreco avvolgerebbe il cerchio unitario completamente,
 
 99
 00:05:35,910 --> 00:05:40,200
